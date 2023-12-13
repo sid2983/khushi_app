@@ -17,5 +17,5 @@ def main():
     # Display the result
     st.write(f"The largest number is: {result}")
 
-if _name_ == "_main_":
-    main()
+if __name__ == "__main__":
+    main()
